@@ -81,7 +81,7 @@ Parameters describing the size of the created light curve
 	tbin_in=8640000.
 
 
-- LClength_in: length of the created light-curve, as the exponent to the power of 2, lengh=2**LClength_in
+- LClength_in: length of the created light-curve, as the exponent to the power of 2, length=2**LClength_in
 - tbin_in: time duration of a single time step, i.e., the resolution of the light-curve. Nominally it is given in seconds. 
 
 ---
