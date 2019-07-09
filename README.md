@@ -173,7 +173,7 @@ The values for these light curves are stored as float64 numbers.
 Find 20 runs with fiducial parameters (the ones in run_script_ex.sh) in the Examples folder. For reasons of space these are saved as float16 numbers and you can load them as simple numpy arrays:
 
 	import numpy as np
-	ER_curve = load(<path_to_the_bin_file_here>)
+	ER_curve = np.load(<path_to_the_bin_file_here>)
 
 
 <a name="help"></a>
