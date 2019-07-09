@@ -141,7 +141,7 @@ Parameters describing the limits of the Eddington ratio distribution (PDF). Due 
 	UpperLimit_acc_in=3.
 
 - num_it_in: number of iterative steps, described in Section 3.2.2
-- LowerLimit_in: lower limit of the Eddington ratio distribution (PDF) for the random draw algorithm - has to be smaller than LowerLimit_acc_in for broken-power law ERDF, and same as UpperLimit_acc_in for log-normal case!
+- LowerLimit_in: lower limit of the Eddington ratio distribution (PDF) for the random draw algorithm - has to be smaller than LowerLimit_acc_in for broken-power law ERDF, and same as LowerLimit_acc_in for log-normal case!
 - UpperLimit_in: upper limit of the Eddington ratio distribution (PDF) for the random draw algorithm - has to be larger than UpperLimit_acc_in for broken-power law ERDF, and same as UpperLimit_acc_in for log-normal case!
 - LowerLimit_acc_in: lower limit of the Eddington ratio distribution (PDF)
 - UpperLimit_acc_in: upper limit of the Eddington ratio distribution (PDF)
