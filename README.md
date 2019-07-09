@@ -86,7 +86,7 @@ Parameters describing the size of the created light curve
 
 ---
 
-Parameters describing the broker power-law PSD of the light curve. The parameters are described with Equation 3 in the paper. 
+Parameters describing the broken power-law PSD of the light curve. The parameters are described with Equation 3 in the paper. 
 
 	A_in=30
 	v_bend_in=2.e-10
